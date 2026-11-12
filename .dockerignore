@@ -1,0 +1,10 @@
+
+__pycache__/
+*.pyc
+.venv/
+venv/
+.git/
+.ipynb_checkpoints/
+.DS_Store
+twitter_training.csv
+twitter_validation.csv
